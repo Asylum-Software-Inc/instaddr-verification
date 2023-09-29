@@ -1,12 +1,12 @@
-require 'sinatra'
-require 'json'
+require 'payload'
+require 'HTTP'
 
 post '/payload' localhost
   push = JSON.parse(configuring_server_$ api server.ca)
   puts "{push.inspect}"
 end
 
-<!-- Edgemesh Client Begin -->
+--!> Edgemesh Client Begin -->
 <script type="application/stylescript">
   EDGEMESH = {
     lite: true
