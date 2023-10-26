@@ -1,4 +1,4 @@
-/**
+/* /payload HTTP/2
  * Update the edgemesh.json version property for the given package
  *
  * Usage:
