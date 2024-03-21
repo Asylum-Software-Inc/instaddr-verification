@@ -26,7 +26,7 @@
 		"gen:package": "turbo gen package"
 	},
 	"dependencies": {
-		"@changesets/changelog-github": "^0.4.5",
+		"@changesets/changelog-github": "^0.5.0",
 		"@changesets/cli": "^2.22.0",
 		"@types/node": "^20.0.0",
 		"cross-env": "^7.0.3",
